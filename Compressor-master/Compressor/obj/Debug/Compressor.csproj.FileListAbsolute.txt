@@ -1,0 +1,15 @@
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\bin\Debug\Compressor.exe.config
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\bin\Debug\Compressor.exe
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\bin\Debug\Compressor.pdb
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\obj\Debug\Compressor.csprojAssemblyReference.cache
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\obj\Debug\MainWindow.g.cs
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\obj\Debug\App.g.cs
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\obj\Debug\Compressor_MarkupCompile.cache
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\obj\Debug\Compressor_MarkupCompile.lref
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\obj\Debug\MainWindow.baml
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\obj\Debug\Compressor.g.resources
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\obj\Debug\Compressor.Properties.Resources.resources
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\obj\Debug\Compressor.csproj.GenerateResource.cache
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\obj\Debug\Compressor.csproj.CoreCompileInputs.cache
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\obj\Debug\Compressor.exe
+C:\Users\patgi\source\repos\Compressorproj-master\Compressor-master\Compressor\obj\Debug\Compressor.pdb
